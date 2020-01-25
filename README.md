@@ -213,6 +213,7 @@ Links:
 -  [Bluetosis](https://github.com/geoah/bluetosis)  - Bluetooth firmware for the Mitosis keyboard.
 -  [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Flexible firmware for Arduino-powered keyboards.
 -  [Anne Key](https://github.com/ah-/anne-key) - Firmware for Anne Pro Keyboard written in Rust.
+-  [kmk_firmware](https://github.com/KMKfw/kmk_firmware) - Firmware leveraging the power of [CircuitPython](https://circuitpython.org/).
 
 ## Tutorials
 
